@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backend Fundamentals 🚀
 
 This repository documents my journey of learning backend development using JavaScript.
@@ -87,5 +88,3 @@ node basics/async-await.js
 ## 👨‍💻 Author
 
 Backend learning journey by **Sumongal**
-
----
