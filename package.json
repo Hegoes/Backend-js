@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r # Backend Fundamentals 🚀",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hegoes/Backend-js.git"
+  },
+  "keywords": [],
+  "author": " Sumongal ",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hegoes/Backend-js/issues"
+  },
+  "homepage": "https://github.com/Hegoes/Backend-js#readme"
+}

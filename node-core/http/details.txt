@@ -1,0 +1,19 @@
+protocol - A protocol is just a set of rules for communication between devices.                     
+
+
+HTTP is a protocol used to transfer data between client and server on the web
+Full form: HyperText Transfer Protocol
+
+Example (your daily use)
+
+We type: https://google.com
+Your browser sends: GET / HTTP/1.1
+Server replies: 200 OK HTML content...
+
+
+Types of HTTP methods:
+Method	        Meaning
+GET	            Get data
+POST	        Send data
+PUT	            Update
+DELETE	        Remove
