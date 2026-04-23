@@ -1,0 +1,21 @@
+//NPM understanding
+1. node js core mein jo installed aata hai wo keh laata hain module
+2. npm se download krte hai wo hota hai package
+
+// installing and uninstalling anything basics & advanced
+1. To install anything we just need to type " npm i packageKaNaam "
+2. To uninstall any package we just need to type " npm uninstall packageKaNaam "
+3. installing particular versions " npm install packageKaNaam@version "
+
+// dependencies
+1. some packages are dependent on other packages as well so they get installed as well on the node_modules folder 
+
+// devdependencies
+1. aise packages jo sirf development mei kaam aayega par jab ban jaayega aur deploy ho jaayega tab devdependencies ko use nhi kar rhe honge, we can delete that
+2. install it using " npm i packageKaNaam --save-dev " // this saves this dependencieson the devdependencies instead of dependencies
+
+// scripts - understanding default scripts PATH and custom scripts
+
+ 
+// understanding node_modules 
+

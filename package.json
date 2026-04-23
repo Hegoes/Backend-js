@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Hegoes/Backend-js/issues"
   },
-  "homepage": "https://github.com/Hegoes/Backend-js#readme"
+  "homepage": "https://github.com/Hegoes/Backend-js#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }

@@ -1,0 +1,6 @@
+${Date.now()}: request was received from ${req.url}${Date.now()}: request was received from ${req.url}${Date.now()}: request was received from ${req.url}${Date.now()}: request was received from ${req.url}1776874381540: request was received from /education 
+1776874381694: request was received from /favicon.ico 
+1776874410715: request was received from /about 
+1776874410776: request was received from /favicon.ico 
+1776882868488: request was received from /education 
+1776882868685: request was received from /favicon.ico 
