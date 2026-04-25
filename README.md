@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Backend Fundamentals 🚀
 
 This repository documents my journey of learning backend development using JavaScript.
